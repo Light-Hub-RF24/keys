@@ -1,1 +1,11 @@
-{}
+{
+  "TEST-123456-ABCDEF": {
+    "value": "TEST-123456-ABCDEF",
+    "expiration": "2025-07-23T00:00:00Z",
+    "hwid": null,
+    "ip": null,
+    "blacklisted": false,
+    "owner": "testuser",
+    "private": false
+  }
+}
